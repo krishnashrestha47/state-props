@@ -6,7 +6,7 @@ export const TableComp = ({ users }) => {
     <Table striped bordered hover variant="success">
       <thead>
         <tr>
-          <th>Users</th>
+          <th>Users List</th>
         </tr>
       </thead>
       <tbody>
